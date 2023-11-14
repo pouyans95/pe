@@ -18,6 +18,24 @@ Project Euler is a series of challenging mathematical/computer programming probl
 
 Visit the [official Project Euler website](https://projecteuler.net/) to learn more and start solving problems.
 
+## Project Euler Rules
+
+Before exploring the solutions, please take note of the following guidelines set by Project Euler:
+
+### Project Euler Rules
+
+Project Euler encourages users not to publicly post solutions to its problems, especially for problems beyond the first 100. The goal is to maintain the challenge and excitement of solving problems independently.
+
+### Exception for Problems 1-100
+
+For problems 1 to 100, Project Euler grants permission to discuss and publish solutions outside of their platform, as long as the discussion aims to instruct methods, not just provide answers. Ensure that your contributions do not directly undermine the enjoyment of solving later problems.
+
+### Learning and Respect
+
+Real learning is an active process, and there's nothing quite like the "Aha!" moment when you solve a problem on your own. Please consider providing instructive discussions and explanations rather than just sharing answers to enhance the learning experience for others.
+
+For the most up-to-date information, refer to [Project Euler's official website](https://projecteuler.net/).
+
 ## Solutions
 
 Here you can find my solutions to various Project Euler problems. Each problem has its own folder, for example, `problem1`, containing at least two files:
@@ -34,7 +52,6 @@ README.md
 solution.py
 README.md
 ...
-
 
 Feel free to explore the solutions and learn from them. Keep in mind that one of the goals of Project Euler is to learn and improve your programming and problem-solving skills.
 
