@@ -2,9 +2,9 @@
 
 ## Problem Statement
 
-By listing the first six prime numbers: $2, 3, 5, 7, 11$, and $13$, we can see that the $6$th prime is $13$.
+By listing the first six prime numbers: $2, 3, 5, 7, 11$, and $13$, we can see that the $6th$ prime is $13$.
 
-What is the $10,001$st prime number?
+What is the $10,001st$ prime number?
 
 ## Solution
 
@@ -56,7 +56,7 @@ The solution to this problem is implemented in the `solution.py` file. The progr
         return current_num - 1
     ```
 
-The solution is executed for the $10,001$st prime number, and the result is printed to the console.
+The solution is executed for the $10,001st$ prime number, and the result is printed to the console.
 
 ### How it Works
 
@@ -64,7 +64,7 @@ The solution is executed for the $10,001$st prime number, and the result is prin
 
 2. The `solution` function iterates through numbers and checks for primality using the `is_prime_number` function until it finds the $n$th prime number.
 
-3. The result, the $10,001$st prime number, is printed to the console.
+3. The result, the $10,001st$ prime number, is printed to the console.
 
 ## How to Run
 
