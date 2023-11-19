@@ -41,16 +41,16 @@ For the most up-to-date information, refer to [Project Euler's official website]
 Here you can find my solutions to various Project Euler problems. Each problem has its own folder, for example, `problem1`, containing at least two files:
 
 - `solution.py`: Provides the solution to the problem.
-- `README.md`: Elaborates on the problem statement.
+- `readme.md`: Elaborates on the problem statement.
 
 The directory structure is as follows:
 
-/problem-001
+/problem1
 solution.py
-README.md
-/problem-002
+readme.md
+/problem2
 solution.py
-README.md
+readme.md
 ...
 
 Feel free to explore the solutions and learn from them. Keep in mind that one of the goals of Project Euler is to learn and improve your programming and problem-solving skills.
@@ -64,7 +64,7 @@ To run a specific solution, navigate to the corresponding directory and follow t
 If you'd like to contribute your own solutions, feel free to submit a pull request. Please adhere to the following guidelines:
 
 1. Each solution should be in its own directory named `problemXXX` where XXX is the problem number.
-2. Include a README in each solution directory explaining the problem and providing any relevant information about your solution.
+2. Include a readme in each solution directory explaining the problem and providing any relevant information about your solution.
 3. Clearly state the programming language used in your solution.
 4. Ensure your code is well-documented and follows best practices.
 
