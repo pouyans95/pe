@@ -29,7 +29,7 @@ The solution to this problem is implemented in the `solution.py` file. The progr
 >>> solution(10)
 2640
 ```
-How it Works
+### How it Works
 The function calculates the sum of squares using a generator expression for numbers from 1 to the given upper limit.
 
 The square of the sum is calculated using the built-in sum function for the range from 1 to the given upper limit.
