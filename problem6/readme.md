@@ -28,7 +28,7 @@ The solution to this problem is implemented in the `solution.py` file. The progr
 ```python
 >>> solution(10)
 2640
-
+```
 How it Works
 The function calculates the sum of squares using a generator expression for numbers from 1 to the given upper limit.
 
@@ -38,9 +38,10 @@ The difference between the square of the sum and the sum of squares is returned.
 
 The solution for the first one hundred natural numbers is obtained by calling the function with the argument 100.
 
-## How to Run
+### How to Run
 
 To execute the solution, run the following command:
 
 ```bash
 python solution.py
+```
